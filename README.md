@@ -244,4 +244,4 @@ This is an unofficial, student-made study aid. It is not affiliated with or endo
 ## Author
 
 Built by **Shaurya**, B.Tech CSE (AI/ML) student at Newton School of Technology, Bangalore.
-GitHub: [@YOUR-USERNAME]([https://github.com/YOUR-USERNAME](https://github.com/Shaurya818))
+GitHub: [@YOUR-USERNAME]((https://github.com/Shaurya818))
