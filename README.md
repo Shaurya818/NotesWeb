@@ -241,11 +241,7 @@ Corrections and improvements to notes, questions and flashcards are welcome. Ope
 
 This is an unofficial, student-made study aid. It is not affiliated with or endorsed by the course instructors or the university, and it doesn't replace the lectures or the official material. Double-check anything important against the official slides.
 
-## License
-
-[MIT](LICENSE) © 2026 Shaurya
-
 ## Author
 
 Built by **Shaurya**, B.Tech CSE (AI/ML) student at Newton School of Technology, Bangalore.
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: [@YOUR-USERNAME]([https://github.com/YOUR-USERNAME](https://github.com/Shaurya818))
