@@ -7,7 +7,7 @@
 28 modules · 192 flashcards · 235 quiz questions · CPU scheduling & chmod calculators · hands-on labs
 Single HTML file. Zero dependencies. No build step.
 
-[**▶ Live demo**](https://snai-study-dashboard.vercel.app)
+[**▶ Live demo**](https://snainotes.vercel.app/)
 
 ![Stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20vanilla%20JS-2453D6?style=flat-square)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-13835A?style=flat-square)
